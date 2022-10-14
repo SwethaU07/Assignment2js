@@ -29,4 +29,10 @@ function pyramid(){
 }
 pyramid();
 
+body{
+    background-color: aquamarine;
+    height: 50vh;
+    width: 50vw;
+}
+
 
